@@ -1,5 +1,5 @@
 {
-  "name": "@bookcook/test",
+  "name": "@shivamsingla006/test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "url": "https://github.com/bookcook/test.git"
+    "url": "https://github.com/shivamsingla006/test.git"
   },
   "author": "",
   "license": "ISC"
